@@ -15,7 +15,7 @@ gem "middleman-minify-html"
 gem "middleman-pry"
 gem "nokogiri", ">= 1.10.4"
 gem "rack", ">= 2.0.6"
-gem "redcarpet", "~> 3.3", ">= 3.3.3"
+gem "redcarpet", "~> 3.5"
 gem "therubyracer"
 
 group :development do
